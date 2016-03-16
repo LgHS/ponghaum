@@ -1,7 +1,7 @@
 #include "khroma.h"
 #include "game/game_manager.h"
 
-PolychrHAUM <150, PIN__LEDSTRIP_DATA> khroma;
+PolychrHAUM <179, PIN__LEDSTRIP_DATA> khroma;
 
 void animate() {
 	game.animate();

@@ -3,8 +3,8 @@ RELATIVE_PATH?=.
 
 # ARDUINO SETTINGS
 
-BOARD_TAG     ?= pro5v328
-ARDUINO_PORT  ?= /dev/ttyUSB0
+BOARD_TAG     ?= uno
+ARDUINO_PORT  ?= /dev/tty.usbmodem1411
 
 # PC SETTINGS
 
