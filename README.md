@@ -1,1 +1,1 @@
-http://wiki.lghs.be/projet:1d_pong
+http://wiki.lghs.be/projets:1d_pong
